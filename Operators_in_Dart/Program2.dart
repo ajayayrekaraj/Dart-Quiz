@@ -3,3 +3,5 @@ void main() {
   int y = 34;
   print(x & y);
 }
+
+//2
